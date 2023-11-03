@@ -1,7 +1,7 @@
 ### Hi there, this is Lei Zhang. 👋
 
 - 🔭 I’m currently studying in MAC Lab, Xiamen University
-- 🌱 My currently research interests include Neural Architecture Search, Hyperparameter Optimization and Automated Machine Learning.
+- 🌱 My currently research interests include Model compression, Hyperparameter Optimization and Automated Machine Learning.
 
 ![zhanglei1172's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhanglei1172&show_icons=true&theme=cobalt)
 
